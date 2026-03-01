@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/My_Portfolio/static/css/main.161bc75f.css",
+    "main.js": "/My_Portfolio/static/js/main.e7d05d5d.js",
+    "static/js/488.9561f9b8.chunk.js": "/My_Portfolio/static/js/488.9561f9b8.chunk.js",
+    "static/media/fright.png": "/My_Portfolio/static/media/fright.a72f0f8e8c3626c6d229.png",
+    "static/media/pricol.png": "/My_Portfolio/static/media/pricol.f86db6ac7c5f86d5ec0e.png",
+    "static/media/arena.png": "/My_Portfolio/static/media/arena.3a5dc6027680bd233b43.png",
+    "static/media/anime.png": "/My_Portfolio/static/media/anime.efce2e524b1f62b524d8.png",
+    "static/media/ffm.png": "/My_Portfolio/static/media/ffm.79e5549ef97606ab746c.png",
+    "static/media/GTF_Platter.png": "/My_Portfolio/static/media/GTF_Platter.d68fa1ae69ceee202fa6.png",
+    "static/media/GTF-layout.png": "/My_Portfolio/static/media/GTF-layout.d4ec9c8b263678d902e5.png",
+    "static/media/portfolio.png": "/My_Portfolio/static/media/portfolio.cc88ae77b65d531e4b82.png",
+    "static/media/ecom.png": "/My_Portfolio/static/media/ecom.749a9f1c05fda03138c9.png",
+    "static/media/3dmodel.png": "/My_Portfolio/static/media/3dmodel.e37c3e9702c506809feb.png",
+    "static/media/e-com.png": "/My_Portfolio/static/media/e-com.8b83644fc2074ad4a3f1.png",
+    "static/media/jewels.png": "/My_Portfolio/static/media/jewels.58f729016a6c44cff01e.png",
+    "static/media/Nitesh Cv.pdf": "/My_Portfolio/static/media/Nitesh Cv.51f25ba8c950391646a3.pdf",
+    "static/media/light-background.jpg": "/My_Portfolio/static/media/light-background.4376fed0f927145139b5.jpg",
+    "static/media/banner-dark-mod2.jpg": "/My_Portfolio/static/media/banner-dark-mod2.877b670bd752d3dad7a9.jpg",
+    "static/media/react.png": "/My_Portfolio/static/media/react.404167651b40e37feacf.png",
+    "static/media/html.png": "/My_Portfolio/static/media/html.4a71b4f710e1861c30bb.png",
+    "static/media/bootstrap-logo.png": "/My_Portfolio/static/media/bootstrap-logo.c9bea5c08bc7623c3716.png",
+    "static/media/wp.png": "/My_Portfolio/static/media/wp.c517cfde685ea8868e83.png",
+    "static/media/sass.png": "/My_Portfolio/static/media/sass.bf159cdb2a752f2218da.png",
+    "static/media/canva.webp": "/My_Portfolio/static/media/canva.4e6a9277b76736e009ec.webp",
+    "static/media/css.png": "/My_Portfolio/static/media/css.5f9a6869e63d1ff69be3.png",
+    "static/media/js.png": "/My_Portfolio/static/media/js.266bd9fb2663dcc057b4.png",
+    "static/media/tailwind-css.svg": "/My_Portfolio/static/media/tailwind-css.160d3de3a73a551fed84370fcf32a83f.svg",
+    "index.html": "/My_Portfolio/index.html",
+    "main.161bc75f.css.map": "/My_Portfolio/static/css/main.161bc75f.css.map",
+    "main.e7d05d5d.js.map": "/My_Portfolio/static/js/main.e7d05d5d.js.map",
+    "488.9561f9b8.chunk.js.map": "/My_Portfolio/static/js/488.9561f9b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.161bc75f.css",
+    "static/js/main.e7d05d5d.js"
+  ]
+}
